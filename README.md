@@ -10,8 +10,7 @@ An educational app, Minerva lets the user create their own account. Once registe
 ![Screenshot_3](https://user-images.githubusercontent.com/114444914/232785733-20f8d323-616c-4b57-8846-8c8af843a313.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/114444914/232785736-abaa73a0-d022-4055-a7ec-40ab880ba322.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/114444914/232785740-e95c9612-a7f0-4cd1-ad8b-32cc8dd46d8d.png)
-![Screenshot_6](https://use![Screenshot_7](https://user-images.githubusercontent.com/114444914/232785761-373fb000-6578-4ebb-8ac3-bc31a3f6f25e.png)
-r-images.githubusercontent.com/114444914/232785741-cb0108d6-47e1-45f4-9617-0e6e5f10dd92.png)
+![Screenshot_6](https://user-images.githubusercontent.com/114444914/232785761-373fb000-6578-4ebb-8ac3-bc31a3f6f25e.png)
 
 The cards can be public or private. Anyone can add the public cards to their collection. The users can edit and delete their own cards.
 ![Screenshot_11](https://user-images.githubusercontent.com/114444914/232785556-a305522f-9bfe-42b2-8813-143ae758933a.png)
